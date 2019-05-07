@@ -1,2 +1,2 @@
 # graphql-uni-project
-GraphQL API using Node.js &amp; MongoDB
+GraphQL server using Node.js, Express & MongoDB
